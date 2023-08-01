@@ -106,4 +106,3 @@ Huge thanks to my ([@leo](https://github.com/leo)'s) friend [Andy](http://twitte
 ## Author
 
 Leo Lamprecht ([@notquiteleo](https://twitter.com/notquiteleo)) - [Vercel](https://vercel.com)
-
