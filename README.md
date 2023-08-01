@@ -107,16 +107,3 @@ Huge thanks to my ([@leo](https://github.com/leo)'s) friend [Andy](http://twitte
 
 Leo Lamprecht ([@notquiteleo](https://twitter.com/notquiteleo)) - [Vercel](https://vercel.com)
 
-### Test
-```
-require('dotenv').config()
-const micro = require('micro')
-
-const run = require('./lib/server')
-
-const server = micro(run)
-async function ServerRun(){
-    await server
-}
-ServerRun()
-```
